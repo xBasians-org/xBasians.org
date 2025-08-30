@@ -73,3 +73,4 @@ This project shares accumulated experience in automating custom script creation,
       - GitHub Actions для проверки сборки проектов.  
       - Автоматические тесты для примеров и библиотек.  
 
+- [ ] Раздел по IDE  
